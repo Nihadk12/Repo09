@@ -11,4 +11,4 @@ console.log(myEqualFunction("23"));
 console.log(myEqualFunction('23'));
 console.log(myEqualFunction("text"));
 
-module.exports = myEqualFunction;
+module.exports = myEqualFunction
